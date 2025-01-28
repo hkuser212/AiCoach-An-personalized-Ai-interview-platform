@@ -7,7 +7,6 @@ interface NavigationRoutesProps {
 }
 
 export const NavigationRoutes = ({
-  isMobile = false,
 }: NavigationRoutesProps) => {
   return (
     <ul
